@@ -1,0 +1,37 @@
+[
+ {
+  "path": "/packages/iot/pahomqtt", 
+  "ver": "latest", 
+  "name": "PAHOMQTT"
+ }, 
+ {
+  "path": "/packages/iot/WiFi/rw007", 
+  "ver": "v2.1.0", 
+  "name": "RW007"
+ }, 
+ {
+  "path": "/packages/iot/iot_cloud/onenet", 
+  "ver": "latest", 
+  "name": "ONENET"
+ }, 
+ {
+  "path": "/packages/language/JSON/cJSON", 
+  "ver": "v1.7.17", 
+  "name": "CJSON"
+ }, 
+ {
+  "path": "/packages/language/micropython", 
+  "ver": "v1.13.0", 
+  "name": "MICROPYTHON"
+ }, 
+ {
+  "path": "/packages/tools/CmBacktrace", 
+  "ver": "v1.4.1", 
+  "name": "CMBACKTRACE"
+ }, 
+ {
+  "path": "/packages/system/TinyUSB", 
+  "ver": "v0.14.0", 
+  "name": "TINYUSB"
+ }
+]
